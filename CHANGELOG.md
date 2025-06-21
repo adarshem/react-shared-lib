@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/adarshem/react-shared-lib/compare/v1.2.0...v1.3.0) (2025-06-21)
+
+
+### Features
+
+* subpath export ([d7a1f4f](https://github.com/adarshem/react-shared-lib/commit/d7a1f4f46546dab3b7f47b85bbacaf0cda479620))
+
 # [1.2.0](https://github.com/adarshem/react-shared-lib/compare/v1.1.0...v1.2.0) (2025-06-21)
 
 
