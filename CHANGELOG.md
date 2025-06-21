@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/adarshem/react-shared-lib/compare/v1.0.0...v1.1.0) (2025-06-21)
+
+
+### Features
+
+* added additional locale key values ([2b173e7](https://github.com/adarshem/react-shared-lib/commit/2b173e7fb56a1d157d5ace14845a97f1c34cae06))
+
 # 1.0.0 (2025-06-21)
 
 
