@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/adarshem/react-shared-lib/compare/v1.1.0...v1.2.0) (2025-06-21)
+
+
+### Features
+
+* udpated widget to use description prop ([f0faf2b](https://github.com/adarshem/react-shared-lib/commit/f0faf2bc6303dcc8342d989af77872355f33b2d7))
+
 # [1.1.0](https://github.com/adarshem/react-shared-lib/compare/v1.0.0...v1.1.0) (2025-06-21)
 
 
