@@ -28,10 +28,10 @@ function MyApp() {
 
 ### Using Locales
 
-Locale files (like `en-US.json`) are included in the package but are not bundled with the main components to keep your application's bundle size small. You can import them directly from the `dist/locales` path.
+Locale files (like `en-US.json`) are included in the package but are not bundled with the main components to keep your application's bundle size small. Thanks to subpath exports, you can import them directly without referencing the `dist` folder.
 
 ```jsx
-import enUS from '@adarshem/react-shared-lib/dist/locales/en-US.json';
+import enUS from '@adarshem/react-shared-lib/locales/en-US.json';
 
 // Your i18n setup logic here
 console.log(enUS.greeting); // "Hello"
