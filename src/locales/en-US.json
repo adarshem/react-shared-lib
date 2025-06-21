@@ -1,3 +1,23 @@
 {
-  "greeting": "Hello"
+  "greeting": "Hello",
+  "farewell": "Goodbye",
+  "welcome": "Welcome",
+  "thank_you": "Thank you",
+  "error": "An error has occurred",
+  "loading": "Loading...",
+  "submit": "Submit",
+  "cancel": "Cancel",
+  "yes": "Yes",
+  "no": "No",
+  "username": "Username",
+  "password": "Password",
+  "login": "Log In",
+  "logout": "Log Out",
+  "profile": "Profile",
+  "settings": "Settings",
+  "save": "Save",
+  "edit": "Edit",
+  "delete": "Delete",
+  "search": "Search",
+  "home": "Home"
 } 
