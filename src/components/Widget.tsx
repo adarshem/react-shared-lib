@@ -1,7 +1,11 @@
 import React from 'react';
 
-const Widget = () => {
-  return <div>Hello from Widget!</div>;
-};
+interface WidgetProps {
+  title: string;
+}
+
+function Widget({ title }: WidgetProps) {
+  return <div>{title}</div>;
+}
 
 export default Widget;
